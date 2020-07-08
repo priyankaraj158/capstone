@@ -24,7 +24,11 @@ Problem:
 To find the answers to the following questions:
 
 Q1) List and visualize all major parts of New York City that has great Indian restaurants.
+
 Q2) what is best location in New York City for Indian Cuisine?
+
 Q3) which areas have potential Indian Restaurant Market?
+
 Q4) which all areas lack Indian Restaurants?
+
 Q5) which is the best place to stay if you prefer Indian Cuisine?
